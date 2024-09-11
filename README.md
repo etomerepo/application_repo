@@ -56,5 +56,3 @@ This repository contains several scripts for managing APK files and pushing chan
 - **Git**: Required for `push_to_cloud.bat`. Ensure Git is installed and a repository is properly initialized.
   
 ---
-
-This `README.md` should give you a good understanding of how the scripts work and how to use them effectively!

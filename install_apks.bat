@@ -1,5 +1,4 @@
 @echo off
-SETLOCAL
 
 :: Check if adb is installed and accessible
 adb version >nul 2>&1
@@ -8,6 +7,20 @@ IF ERRORLEVEL 1 (
     pause
     exit /b
 )
+
+:: Check if any device is connected
+adb devices > devices.txt
+findstr /v "List of devices attached" devices.txt | findstr "device" >nul 2>&1
+
+IF ERRORLEVEL 1 (
+    echo No device detected. Please connect a device via ADB.
+    del devices.txt
+    pause
+    exit /b
+)
+
+:: Clean up the temporary file
+del devices.txt
 
 :: Loop through all APK files in the current directory
 for %%f in (*.apk) do (
@@ -29,4 +42,3 @@ for %%f in (*.apk) do (
 
 echo All installations completed.
 pause
-ENDLOCAL

@@ -14,6 +14,13 @@
         "com.etome.loka": {
             "versions": [
                 {
+                    "version": "0.4.1",
+                    "releaseDate": "2024-09-12",
+                    "changes": [
+                        "No changes found"
+                    ]
+                },
+                {
                     "version": "0.4.0",
                     "releaseDate": "2024-09-12",
                     "changes": [

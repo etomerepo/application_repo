@@ -32,6 +32,13 @@
         "com.leywin.storeley": {
             "versions": [
                 {
+                    "version": "1.5.2",
+                    "releaseDate": "2024-09-12",
+                    "changes": [
+                        "No changes found"
+                    ]
+                },
+                {
                     "version": "1.5.1",
                     "releaseDate": "2024-09-12",
                     "changes": [

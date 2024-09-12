@@ -22,7 +22,7 @@ IF ERRORLEVEL 1 (
 del devices.txt
 
 :: Get the list of all installed packages that contain "etome" or "leywin"
-for /f "tokens=2 delims=:" %%p in ('adb shell pm list packages ^| findstr /i "etome leywin"') do (
+for /f "tokens=2 delims=:" %%p in ('adb shell pm list packages ^| findstr /i "etome"') do (
     echo Trying to uninstall package: %%p
 
     :: Attempt regular uninstall

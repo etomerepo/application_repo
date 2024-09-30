@@ -14,6 +14,13 @@
         "com.etome.loka": {
             "versions": [
                 {
+                    "version": "0.4.3",
+                    "releaseDate": "2024-09-30",
+                    "changes": [
+                        "bug fix: fix writing lag in pdf page"
+                    ]
+                },
+                {
                     "version": "0.4.2",
                     "releaseDate": "2024-09-30",
                     "changes": [

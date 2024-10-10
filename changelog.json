@@ -96,6 +96,13 @@
         "com.etome.evaluation": {
             "versions": [
                 {
+                    "version": "1.3.2",
+                    "releaseDate": "2024-10-10",
+                    "changes": [
+                        "No changes found"
+                    ]
+                },
+                {
                     "version": "1.3.0",
                     "releaseDate": "2024-09-11",
                     "changes": [
@@ -140,6 +147,13 @@
         },
         "com.etome.eyora": {
             "versions": [
+                {
+                    "version": "0.2.2",
+                    "releaseDate": "2024-10-10",
+                    "changes": [
+                        "No changes found"
+                    ]
+                },
                 {
                     "version": "0.3.0",
                     "releaseDate": "2024-09-11",

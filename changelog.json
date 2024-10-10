@@ -148,6 +148,13 @@
         "com.etome.eyora": {
             "versions": [
                 {
+                    "version": "0.2.21",
+                    "releaseDate": "2024-10-10",
+                    "changes": [
+                        "changed icon"
+                    ]
+                },
+                {
                     "version": "0.2.2",
                     "releaseDate": "2024-10-10",
                     "changes": [

@@ -187,6 +187,20 @@
         "com.etome.invigilation": {
             "versions": [
                 {
+                    "version": "0.4.7",
+                    "releaseDate": "2024-10-10",
+                    "changes": [
+                        "version change 0.4.5 to 0.4.7",
+                        "version change 0.4.0 to 0.4.5",
+                        "add loading progress on login",
+                        "report page bug fix",
+                        "exam code added",
+                        "report update",
+                        "Merge branch 'new' of https://github.com/team-etome/etomeandroid-invigilation into new",
+                        "que image bug fix"
+                    ]
+                },
+                {
                     "version": "0.4.0",
                     "releaseDate": "2024-09-11",
                     "changes": [

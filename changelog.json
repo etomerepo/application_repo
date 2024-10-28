@@ -53,6 +53,15 @@
         "com.leywin.storeley": {
             "versions": [
                 {
+                    "version": "1.7.1",
+                    "releaseDate": "2024-10-28",
+                    "changes": [
+                        "package name change",
+                        "version change",
+                        "add functionalities for package name change migration"
+                    ]
+                },
+                {
                     "version": "1.6.0",
                     "releaseDate": "2024-10-15",
                     "changes": [
@@ -239,6 +248,17 @@
                 {
                     "version": "1.0.1",
                     "releaseDate": "2024-09-27",
+                    "changes": [
+                        "Initial release"
+                    ]
+                }
+            ]
+        },
+        "com.etome.academia": {
+            "versions": [
+                {
+                    "version": "0.2.27",
+                    "releaseDate": "2024-10-28",
                     "changes": [
                         "Initial release"
                     ]

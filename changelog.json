@@ -3,6 +3,14 @@
         "com.etome.eeka_launcher": {
             "versions": [
                 {
+                    "version": "1.2.4",
+                    "releaseDate": "2024-11-29",
+                    "changes": [
+                        "add \"Arna\" to specificsystemApp and version change",
+                        "minor changes"
+                    ]
+                },
+                {
                     "version": "1.2.1",
                     "releaseDate": "2024-10-28",
                     "changes": [
@@ -27,6 +35,30 @@
         },
         "com.etome.loka": {
             "versions": [
+                {
+                    "version": "1.2.0",
+                    "releaseDate": "2024-11-27",
+                    "changes": [
+                        "removed old package and redudant variables",
+                        "version bump",
+                        "version bumped upto 1.1.0",
+                        "minor changes",
+                        "add: logout alert dialgoue",
+                        "slight improvements",
+                        "if text book is empty Delete all folders",
+                        "some general improvements",
+                        "add progress to login page",
+                        "add update checker & add login mandatory",
+                        "version change",
+                        "minor bug fixes",
+                        "removed browser viewer",
+                        "version change",
+                        "update .gitignore",
+                        "download progress and log out alert dialogue done",
+                        "update supportedDevices",
+                        "download bugs fixed"
+                    ]
+                },
                 {
                     "version": "0.4.3",
                     "releaseDate": "2024-09-30",
@@ -59,6 +91,29 @@
         },
         "com.leywin.storeley": {
             "versions": [
+                {
+                    "version": "2.2.0",
+                    "releaseDate": "2024-12-11",
+                    "changes": [
+                        "app shows actual name when parsing",
+                        "add code to include system apps",
+                        "version bumped to 2.10",
+                        "add custom download button and custom loading widget",
+                        "version change",
+                        "general improvements",
+                        "remove token",
+                        "token updation",
+                        "token change",
+                        "add fallback function to fetch apk using scraping if the token fails",
+                        "updated token to fine grained token",
+                        "token update",
+                        "version change from 1.7.1 to 2.0.0",
+                        "lot of optimization, progressification",
+                        "add progress bar for apps page loading",
+                        "minor bug fix in download bloc and optimizatin on add bloc",
+                        "loading optimization for available apps page"
+                    ]
+                },
                 {
                     "version": "1.7.1",
                     "releaseDate": "2024-10-28",
@@ -126,6 +181,69 @@
         "com.etome.evaluation": {
             "versions": [
                 {
+                    "version": "1.3.8",
+                    "releaseDate": "2024-11-27",
+                    "changes": [
+                        "version bump",
+                        "iteration updated",
+                        "version updated",
+                        "classname view improved, finish button improved,done button positioning changed",
+                        "done button again replaced,backbutton replaced,classname view sorted,problems fixed",
+                        "vertion update",
+                        "evaluation ful;l bug fix",
+                        "mark adding page bug fixed",
+                        "updating evaluation",
+                        "assignment and mocktest completed",
+                        "academia working on assignments",
+                        "version updated",
+                        "mock test completed",
+                        "evaluation main exam updations completed",
+                        "version updated",
+                        "added new toast message in totalmark page and answerblock updated",
+                        "ui updates",
+                        "evaluation changes tasks in jira completed",
+                        "minor bug fix",
+                        "change app icon",
+                        "checkiftabletisetome added",
+                        "version change",
+                        "problems fix",
+                        "loading bug fix in class listing page",
+                        "bug fixes ui",
+                        "this much",
+                        "debounce adding",
+                        "error updates",
+                        "evaluation this much completed",
+                        "bug fix",
+                        "data functions completed ,box updation realtime added",
+                        "marks displaying updated",
+                        "completed data fetching and processing and submitted all to backend",
+                        "updated ui and showing data",
+                        "new evaluation data getting and ui complete",
+                        "Merge pull request #6 from team-etome/beta",
+                        "cleared hive box values",
+                        "animation removed in answerpapers viewing page,hive box clearing added",
+                        "created new page answer_papers_viewing page ,listed answerpappers in tab bar separating subjects,implemented pagination,edited markboard page- removed  alertdialog,edited submit button style",
+                        "included download progress indicator at starting, mark board page ui updated",
+                        "Merge pull request #5 from team-etome/fariza",
+                        "anspapaer viewing page made stateless,updated ink canvas and marking indexes to a another page,added subquestion model,updated evaluation model,updated total_mark_page for subquestion model",
+                        "Merge pull request #4 from team-etome/fariza",
+                        "scroll fix",
+                        "Merge pull request #3 from team-etome/fariza",
+                        "scroll fix",
+                        "Merge pull request #2 from team-etome/fariza",
+                        "updating login",
+                        "Merge pull request #1 from team-etome/arshad",
+                        "working for seperate evaluation",
+                        "removed recoginition alert dialogue",
+                        "added internet permission to manifest",
+                        "new updates",
+                        "added debouncer + changing mark method",
+                        "added answer key page",
+                        "added assets + some minor changes",
+                        "partially completed"
+                    ]
+                },
+                {
                     "version": "1.3.2",
                     "releaseDate": "2024-10-10",
                     "changes": [
@@ -143,6 +261,27 @@
         },
         "com.etome.examination": {
             "versions": [
+                {
+                    "version": "1.5.0",
+                    "releaseDate": "2024-12-13",
+                    "changes": [
+                        "bug fix on status bar accessibility",
+                        "remove unused import",
+                        "status bar update",
+                        "removed access from statusbar for security reasons",
+                        "add full screen things for shell commands",
+                        "version bump",
+                        "change local to remote",
+                        "api url standardisation",
+                        "change in data handling from server",
+                        "change on dio structure + page lock from invilation done",
+                        "some minor bug fixes",
+                        "update on error handling",
+                        "Merge branch 'arshad'",
+                        "version change",
+                        "improvements in error messaging"
+                    ]
+                },
                 {
                     "version": "1.3.3",
                     "releaseDate": "2024-09-27",
@@ -178,6 +317,13 @@
         "com.etome.eyora": {
             "versions": [
                 {
+                    "version": "0.1.0",
+                    "releaseDate": "2024-12-02",
+                    "changes": [
+                        "No changes found"
+                    ]
+                },
+                {
                     "version": "0.2.21",
                     "releaseDate": "2024-10-10",
                     "changes": [
@@ -203,6 +349,19 @@
         "com.etome.invigilation": {
             "versions": [
                 {
+                    "version": "1.0.2",
+                    "releaseDate": "2024-11-28",
+                    "changes": [
+                        "version bump",
+                        "hive cleared",
+                        "slight improvements",
+                        "signed students bug fix",
+                        "change Misbehaviour to Others",
+                        "minor problems change",
+                        "error handling and lot of small improvements"
+                    ]
+                },
+                {
                     "version": "0.4.7",
                     "releaseDate": "2024-10-10",
                     "changes": [
@@ -227,6 +386,15 @@
         },
         "com.etome.nirmana": {
             "versions": [
+                {
+                    "version": "1.4.0",
+                    "releaseDate": "2024-11-20",
+                    "changes": [
+                        "some major bug fixes & pagination in sketchbook fix",
+                        "minor bug fixes",
+                        ".gitignore update"
+                    ]
+                },
                 {
                     "version": "1.3.1",
                     "releaseDate": "2024-10-23",
@@ -264,8 +432,38 @@
         "com.etome.academia": {
             "versions": [
                 {
+                    "version": "0.2.3",
+                    "releaseDate": "2024-11-27",
+                    "changes": [
+                        "submission logic done",
+                        "answer model fix",
+                        "add finishMcqEvent to mcqbloc",
+                        "change in mcq answer model",
+                        "moved repository folder position",
+                        "Merge remote-tracking branch 'origin/arshad_mcq' into mcq",
+                        "mcq models",
+                        "submit code done?",
+                        "ui page created ,bloc created,listing page done",
+                        "change Urls to ApiUrls",
+                        "Navigate to FinishPage after assignment and mock submission",
+                        "changes to how data handled from server",
+                        "change to how data handles"
+                    ]
+                },
+                {
                     "version": "0.2.27",
                     "releaseDate": "2024-10-28",
+                    "changes": [
+                        "Initial release"
+                    ]
+                }
+            ]
+        },
+        "com.etome.etomeandroid_onboarding": {
+            "versions": [
+                {
+                    "version": "0.1.0",
+                    "releaseDate": "2024-12-12",
                     "changes": [
                         "Initial release"
                     ]

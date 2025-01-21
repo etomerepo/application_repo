@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout android:padding="2.0dip" android:descendantFocusability="blocksDescendants" android:layout_width="fill_parent" android:layout_height="60.0dip"
-  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
-    <ImageView android:id="@id/appImageView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_marginTop="5.0dip" android:layout_marginBottom="5.0dip" android:src="@drawable/ic_bt_config" android:layout_centerVertical="true" app:tint="@color/colorPrimary" />
-    <TextView android:textSize="18.0dip" android:textColor="@color/colorText" android:id="@id/appNameTextView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_marginTop="5.0dip" android:layout_toRightOf="@id/appImageView" android:layout_centerVertical="true" />
-</RelativeLayout>

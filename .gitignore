@@ -6,3 +6,4 @@ devices.txt
 choose_which_apps_to_paste.txt
 *.py
 *.bat
+get_apk_names.py

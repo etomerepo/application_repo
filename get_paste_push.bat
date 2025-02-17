@@ -1,1 +1,0 @@
-python get_paste_push.py

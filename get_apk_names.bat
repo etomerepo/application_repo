@@ -1,2 +1,0 @@
-python get_apk_names.py
-pause

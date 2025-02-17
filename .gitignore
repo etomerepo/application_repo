@@ -3,3 +3,6 @@ hiddensettings.apk
 gboard.apk
 recorder.apk
 devices.txt
+choose_which_apps_to_paste.txt
+*.py
+*.bat

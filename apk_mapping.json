@@ -16,5 +16,6 @@
     "com.leywin.tester.etome_store_tester": "etome_store_tester",
     "com.google.android.inputmethod.latin": "Gboard",
     "com.mixplorer.silver": "MiXplorer",
-    "com.simplemobiletools.voicerecorder": "Voice Recorder"
+    "com.simplemobiletools.voicerecorder": "Voice Recorder",
+    "com.etome.etomeTodo":"Todo"
 }
